@@ -21,7 +21,7 @@ csl: apa.csl
 
 :::{.callout-note collapse=false appearance='default' icon=false}
 ## Ziel der Sitzung {{< fa bullseye >}}
-Anwendung des bisher Gelernten auf den Themenbereich *»Belastung und Belastungsprävention im Lehrer:innenberuf«*
+Anwendung des bisher Gelernten auf ihr Wunschthema *»Belastung und Belastungsprävention im Lehrer:innenberuf«*
 :::
 
 * Basics
@@ -30,7 +30,7 @@ Anwendung des bisher Gelernten auf den Themenbereich *»Belastung und Belastungs
 * Intermediate
     * Grobeinschätzung ausgewählter Literatur (Desk./Expla./Explo.; Querschnittlich/Längsschnittlich; Exp./Quasi./Nicht-Exp.; etc.)
 * Advanced
-    * Interpretation von Effektstärken und Inferenzstatistiken in dieser Ausgewählten Literatur
+    * Interpretation von Effektstärken und Inferenzstatistiken in dieser ausgewählten Literatur
 
 ```{r hidden chunk which creates template stuff}
 #| echo: false
@@ -242,7 +242,7 @@ Laden Sie sich den Artikel von Klusman et al. [-@klusmann2012] herunter, veschaf
 
 * *»die vorliegende Arbeit untersucht erstens die Höhe der emotionalen Erschöpfung und der Arbeitszufriedenheit von angehenden Lehrkräften«* $\Rightarrow$ deskriptive Fragestellung
 * *»die Bedeutung von Persönlichkeitsmerkmalen, pädagogischer Vorerfahrungen und der professionellen Kompetenz für das Erleben von Beanspruchung«* $\Rightarrow$ explanative Fragestellung
-* längsschnittlich (*»Mehrkohorten-Messwiederholungsstichprobe«*)
+* *»Mehrkohorten-Messwiederholungsstichprobe«* $\Rightarrow$ längsschnittlich
 * *»Die vorliegende Untersuchung basiert auf einer Stichprobe von über 500 Lehramtskandidaten im Vorbereitungsdienst, die im Rahmen der Studie COACTIV-R2 befragt wurden.«* $\Rightarrow$ Sekundärstudie 
 * *»Mehrkohorten-Messwiederholungsstichprobe«* $\Rightarrow$ nicht-experimentelle Studie 
 
@@ -252,12 +252,12 @@ Laden Sie sich den Artikel von Klusman et al. [-@klusmann2012] herunter, veschaf
 ## Ausgewählte Treffer II {.smaller}
 »Stress within the teaching profession has a negative impact on the health and well-being of individual teachers and on retention and recruitment for the profession as a whole. There is increasing literature to suggest that Mindfulness is a useful intervention to address a variety of psychological problems, and that Mindfulness-Based Stress Reduction (MBSR) is a particularly helpful intervention for stress. We investigated the effects of teaching a MBSR course to primary school teachers to reduce stress. The MBSR course was taught to a group of primary school teachers and evaluated to establish its effects on levels of anxiety, depression, and stress, as well as movement towards a stated goal and changes in awareness. The results showed improvement for most participants for anxiety, depression, and stress, some of which were statistically significant. There were also significant improvements on two of the four dimensions of a mindfulness skills inventory. These results suggest that this approach could be a potentially cost-effective method to combat teacher stress and burnout.« [@gold2010] 
 
-## Klassifikation von  [@gold2010]{.smaller}
+## Klassifikation von  [@gold2010] {.smaller}
 
 ::: {.panel-tabset}
 
 ### Klassifikation
-Laden Sie sich den Artikel von Klusman et al. [-@klusmann2012] herunter, verschaffen Sie sich 10 Minuten lang einen Überblick und klassifizieren Sie ihn entlang der gelernten Kategorien als
+Laden Sie sich den Artikel von Gold et al. [-@gold2010] herunter, verschaffen Sie sich 10 Minuten lang einen Überblick und klassifizieren Sie ihn entlang der gelernten Kategorien als
 
 * Deskriptive, explorative, explanative Studie
 * Querschnittliche, längsschnittliche, Trendstudie
@@ -306,7 +306,7 @@ Laden Sie sich den Artikel von Hwang et al. [-@hwang2017] herunter, verschaffen 
 ::: {.panel-tabset}
 
 ### Klassifikation 
-Laden Sie sich den Artikel von Hwang et al. [-@beuchel2022] herunter, verschaffen Sie sich 10 Minuten lang einen Überblick und klassifizieren Sie ihn entlang der gelernten Kategorien als
+Laden Sie sich den Artikel von Beuchel et al. [-@beuchel2022] herunter, verschaffen Sie sich 10 Minuten lang einen Überblick und klassifizieren Sie ihn entlang der gelernten Kategorien als
 
 * Deskriptive, explorative, explanative Studie
 * Querschnittliche, längsschnittliche, Trendstudie
