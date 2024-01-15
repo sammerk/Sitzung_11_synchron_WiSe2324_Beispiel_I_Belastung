@@ -269,7 +269,6 @@ Laden Sie sich den Artikel von Gold et al. [-@gold2010] herunter, verschaffen Si
 ### Lösungsvorschlag
 
 * *»We investigated the effects of teaching a MBSR course to primary school teachers to reduce stress.«* $\Rightarrow$ explanative Fragestellung
-* längsschnittlich (*»Mehrkohorten-Messwiederholungsstichprobe«*)
 * *» The results showed **improvement** for most participants for anxiety, depression, and stress«* $\Rightarrow$ längsschnittlich 
 * *»Participants were recruited from local suburban primary schools.«* $\Rightarrow$ Primärstudie 
 * Es wird eine Intervention durchgeführt, aber es gibt keine Kontrollgruppe
